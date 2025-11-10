@@ -66,13 +66,13 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/gaganmanku96/Finding-missing-person-using-AI.git
+   git clone https://github.com/lavipawar4/findme9.git
    cd Finding-missing-person-using-AI
    pip install -r requirements.txt
    ```
 2. Run the main web app:
    ```bash
-   streamlit run Home.py
+  python -m streamlit run Home.py
    ```
 3. To use the mobile/public submission app:
    ```bash
