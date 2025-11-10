@@ -72,7 +72,7 @@ Thousands of people, especially children, go missing every day in India. Despite
    ```
 2. Run the main web app:
    ```bash
-  python -m streamlit run Home.py
+   python -m streamlit run Home.py
    ```
 3. To use the mobile/public submission app:
    ```bash
